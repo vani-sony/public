@@ -1,2 +1,3 @@
 #!/bin/bash
-df -kh 
+df -kh
+echo "hi"
