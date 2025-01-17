@@ -1,3 +1,3 @@
 #!/bin/bash
 df -kh
-echo "hi all"
+echo "ihi all"
